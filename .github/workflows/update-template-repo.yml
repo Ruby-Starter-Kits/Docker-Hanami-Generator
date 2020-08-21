@@ -74,7 +74,7 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE/App
         GENERATOR_VERSION="Installer 0.1.0"
-        HANAMI_VERSION=`bundle exec hanami -v`
+        HANAMI_VERSION=`gem list | grep "hanami ("`
 
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
