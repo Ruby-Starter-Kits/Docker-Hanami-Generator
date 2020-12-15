@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Retagging satackey/action-docker-layer-caching to v0 [\#4](https://github.com/Ruby-Starter-Kits/Docker-Hanami-Generator/pull/4) ([MikeRogers0](https://github.com/MikeRogers0))
 - Bump satackey/action-docker-layer-caching from v0.0.8 to v0.0.10 [\#2](https://github.com/Ruby-Starter-Kits/Docker-Hanami-Generator/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 
