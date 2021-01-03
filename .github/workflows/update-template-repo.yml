@@ -87,3 +87,4 @@ jobs:
         github_token: ${{ secrets.LOCAL_GIT_TOKEN }}
         repository: 'Ruby-Starter-Kits/Docker-Hanami-Template'
         directory: App
+        branch: ${{ github.ref }}
